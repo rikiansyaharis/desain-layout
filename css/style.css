@@ -1,0 +1,55 @@
+.logo-section{
+    background-color: #afafaf;
+    height: 90px;
+}
+
+.content-section{
+    background-color: #afafaf;
+    height: 500px;
+}
+
+.foto-section{
+    background-color:grey;
+    height: 100vh;
+}
+.signin-section{
+    background-color:grey;
+    height: 100vh;
+}
+
+.gambar{
+    background-color:darkgray;
+    margin-top: 30vh;
+    height: 300px;
+}
+
+.login{
+    background-color:darkgray;
+    margin-top: 30vh;
+    height: 300px;
+}
+
+.register{
+    background-color:darkgray;
+    margin-top: 20vh;
+    height: 400px;
+}
+
+.navbar-section{
+    background-color: darkgray;
+    height: 50px;
+}
+
+.logo-section{
+    background-color: #afafaf;
+    height: 30px;
+}
+
+.produk-section{
+    background-color: #afafaf;
+    height: 150px;
+}
+.content-section{
+    background-color: #afafaf;
+    height: 500px;
+}
